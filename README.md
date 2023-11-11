@@ -1,6 +1,5 @@
 ![capa](https://github.com/kelvin-hey/api-gerenciamento-de-vagas-de-emprego/blob/main/assets/wall.png)
-
-<img src="https://github.com/kelvin-hey/kelvin-hey/blob/main/assets/line.png"/>
+![linha](https://github.com/kelvin-hey/kelvin-hey/blob/main/assets/line.png)
 
 ### 📌 Descrição do Projeto
 
