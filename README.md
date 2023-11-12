@@ -19,6 +19,6 @@ Para o desenvolvimento da API foram utilizadas as seguintes tecnologias e ferram
 - `HTML`: linguagem de marcação essencial para a construção da estrutura e conteúdo das páginas web
 - `CSS`: linguagem de estilo que aprimora a apresentação visual das páginas HTML
 
-### 📺 Telas
-
 ### 🛠️ Instalação 
+
+### 📺 Preview da Aplicação
